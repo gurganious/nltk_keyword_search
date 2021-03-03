@@ -2,9 +2,6 @@
 
 In response to [https://stackoverflow.com/questions/66323508/parsing-and-avoiding-nested-loops-in-python/66444331?noredirect=1#comment117472485_66444331](https://stackoverflow.com/questions/66323508/parsing-and-avoiding-nested-loops-in-python/66444331?noredirect=1#comment117472485_66444331)
 
-
-The bounty expires in 7 hours. Answers to this question are eligible for a +100 reputation bounty. Sam is looking for an answer from a reputable source:
-just need the logic/code to run faster
 i have a sql table with 12000 entries stored in a dataframe df1 which looks like this:
 
 id	name
